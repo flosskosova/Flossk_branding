@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+CLAUDE.md
+*.SKILL.md
+
+# Project notes
+description.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp
