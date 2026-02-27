@@ -1,5 +1,7 @@
 # FLOSSK Brand Guidelines
 
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](./LICENSE)
+
 **Free/Libre Open Source Software Kosova** is a non-governmental organization based in Prishtina, Kosovo, established in 2009 to support, promote, and develop free and open source software and its community.
 
 > The authoritative source for all brand guidelines is [`flossk_brandbook.pdf`](./flossk_brandbook.pdf) (in Albanian).
