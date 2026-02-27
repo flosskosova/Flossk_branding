@@ -8,14 +8,17 @@
 
 ## Logo
 
-FLOSSK has four logo variants. The **primary logo** should be used in all communications by default.
+FLOSSK has five logo variants. The **primary logo** should be used in all communications by default.
 
-| Variant | Use Case | Minimum Size |
-|---------|----------|--------------|
-| [Primary](./logos/primary/) | Default — all communications | 20mm / 150px |
-| [Secondary](./logos/secondary/) | When full name visibility is required | 20mm / 150px |
-| [Tertiary](./logos/tertiary/) | Rare cases — circular badge form | 20mm / 150px |
-| [Symbol](./logos/symbol/) | Standalone crow symbol | 10mm / 50px |
+| Variant | Contents | Use Case | Minimum Size |
+|---------|----------|----------|--------------|
+| [Primary](./logos/primary/) | Acronym + crow symbol | Default — all communications | 20mm / 150px |
+| [Secondary](./logos/secondary/) | Symbol + acronym + full name | Full brand representation | 20mm / 150px |
+| [Tertiary](./logos/tertiary/) | Symbol + full name in circular form | Rare cases — badge use | 20mm / 150px |
+| [Symbol](./logos/symbol/) | Crow symbol standalone | Icon contexts | 10mm / 50px |
+| [Stema](./logos/stema/) | Redesigned badge with Alfabeti lettering | Ceremonial / special use | 20mm / 150px |
+
+Each variant folder contains files named by color: `black.svg`, `white.svg`, `yellow.svg` (symbol only). PNG and PDF versions are included alongside SVGs. The `symbol/` folder also includes `sorra.svg` — the standalone crow illustration.
 
 ### Logo Usage Rules
 
