@@ -52,7 +52,8 @@ Always ensure sufficient contrast between text and background colors. Yellow on 
 
 ## Typography
 
-FLOSSK uses the **Alfabeti** typeface — a custom font designed for the Albanian alphabet by [trembelat.com](https://trembelat.com).
+FLOSSK uses the **Alfabeti** typeface — a custom font designed for the Albanian alphabet by Yll Rugova - [trembelat.com](https://trembelat.com), CC BY-ND.
+ 
 
 | Weight | File | Use |
 |--------|------|-----|
@@ -81,3 +82,5 @@ a b c ç d dh e ë f g gj h i j k l ll m n nj o p q r rr s sh t th u v x xh y z 
 ## Usage
 
 These assets belong to FLOSSK. Use them to represent the organization in open source projects, community events, and communications. For permissions beyond community use, contact [FLOSSK](https://flossk.org).
+
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](./LICENSE)
