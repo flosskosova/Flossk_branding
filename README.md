@@ -44,7 +44,7 @@ FLOSSK's brand palette is black, white, and yellow. Yellow is used as an accent 
 | ![#000000](https://placehold.co/24x24/000000/000000.png) | Black | `#000000` | C:0 M:0 Y:0 K:100 |
 | ![#ffffff](https://placehold.co/24x24/ffffff/ffffff.png) | White | `#ffffff` | C:0 M:0 Y:0 K:0 |
 | ![#fff200](https://placehold.co/24x24/fff200/fff200.png) | Yellow | `#fff200` | C:0 M:5 Y:100 K:0 |
-| ![#eacb2c](https://placehold.co/24x24/eacb2c/eacb2c.png) | Yellow (alt) | `#eacb2c` | — |
+| ![#eacb2c](https://placehold.co/24x24/eacb2c/eacb2c.png) | Yellow (alt) | `#eacb2c` | C:0 M:13 Y:81 K:8  |
 
 Always ensure sufficient contrast between text and background colors. Yellow on white and black on yellow are not permitted combinations.
 
